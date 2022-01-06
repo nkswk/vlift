@@ -1,0 +1,13 @@
+{
+  "mongo": {
+    "host": "localhost",
+    "port": "27017",
+    "username": "trudesk",
+    "password": "#TruDesk1$",
+    "database": "trudesk"
+  },
+  "tokens": {
+    "secret": "47e4b72038e1ea1f3b6734b19973d96cc65f35558ac16b2ffb027d96c934c830f2f2d7af",
+    "expires": 900
+  }
+}
